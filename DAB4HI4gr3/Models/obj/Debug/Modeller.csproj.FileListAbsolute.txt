@@ -10,3 +10,15 @@ D:\HI2DAB\DAB4HI4gr3\Models\obj\Debug\Modeller.csproj.CopyComplete
 D:\HI2DAB\DAB4HI4gr3\Models\obj\Debug\Models.dll
 D:\HI2DAB\DAB4HI4gr3\Models\obj\Debug\Models.pdb
 D:\HI2DAB\DAB4HI4gr3\Models\obj\Debug\Modeller.csprojResolveAssemblyReference.cache
+D:\DAB4\DAB4HI4gr3\Models\obj\Debug\Modeller.csprojResolveAssemblyReference.cache
+D:\DAB4\DAB4HI4gr3\Models\obj\Debug\Modeller.csproj.CoreCompileInputs.cache
+D:\DAB4\DAB4HI4gr3\Models\obj\Debug\Models.dll
+D:\DAB4\DAB4HI4gr3\Models\obj\Debug\Models.pdb
+D:\DAB4\DAB4HI4gr3\Models\bin\Debug\Models.dll.config
+D:\DAB4\DAB4HI4gr3\Models\bin\Debug\Models.dll
+D:\DAB4\DAB4HI4gr3\Models\bin\Debug\Models.pdb
+D:\DAB4\DAB4HI4gr3\Models\bin\Debug\EntityFramework.dll
+D:\DAB4\DAB4HI4gr3\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\DAB4\DAB4HI4gr3\Models\bin\Debug\EntityFramework.xml
+D:\DAB4\DAB4HI4gr3\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\DAB4\DAB4HI4gr3\Models\obj\Debug\Modeller.csproj.CopyComplete

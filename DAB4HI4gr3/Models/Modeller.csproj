@@ -51,7 +51,6 @@
     <Compile Include="DBContext.cs" />
     <Compile Include="EnergiLager.cs" />
     <Compile Include="ForventetData.cs" />
-    <Compile Include="Kabel.cs" />
     <Compile Include="MiniSmartGrid.cs" />
     <Compile Include="MiniSmartGridMeter.cs" />
     <Compile Include="MiniSmartGridMeterData.cs" />

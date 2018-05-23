@@ -11,6 +11,5 @@ public interface IUnitOfWork : IDisposable
     IMinismartgridmeterRepository MiniSmartGridMeters { get; }
     IMinismartgridmeterdataRepository MiniSmartGridMeterDatas { get; }
     ITransaktionslisteRepository TransaktionsListes { get; }
-    IKabelRepository Kabels { get; }
     void Save();
 }

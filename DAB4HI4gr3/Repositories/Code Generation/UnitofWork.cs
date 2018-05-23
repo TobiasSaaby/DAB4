@@ -60,12 +60,6 @@ public class UnitOfWork : IUnitOfWork
     {
         get { return new TransaktionslisteRepository(_context); }
     }
-
-    public IKabelRepository Kabels
-    {
-        get { return new KabelRepository(_context); }
-    }
-
     
     public void Save()
     {

@@ -66,9 +66,6 @@
     <Compile Include="Code Generation\IForventetdataRepository.cs">
       <DependentUpon>RepositoryGenerator.tt</DependentUpon>
     </Compile>
-    <Compile Include="Code Generation\IKabelRepository.cs">
-      <DependentUpon>RepositoryGenerator.tt</DependentUpon>
-    </Compile>
     <Compile Include="Code Generation\IMinismartgridmeterdataRepository.cs">
       <DependentUpon>RepositoryGenerator.tt</DependentUpon>
     </Compile>
@@ -91,9 +88,6 @@
       <DependentUpon>RepositoryGenerator.tt</DependentUpon>
     </Compile>
     <Compile Include="Code Generation\IUnitofWork.cs">
-      <DependentUpon>RepositoryGenerator.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Code Generation\KabelRepository.cs">
       <DependentUpon>RepositoryGenerator.tt</DependentUpon>
     </Compile>
     <Compile Include="Code Generation\MinismartgridmeterdataRepository.cs">
