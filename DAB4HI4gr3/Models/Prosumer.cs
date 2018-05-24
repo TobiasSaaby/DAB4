@@ -17,13 +17,10 @@ namespace DAB4.Modeller
         public string Type { get; set; }
         public int Tokens { get; set; }
         public Adresse Adresse { get; set; }
-
-        public virtual List<MiniSmartGridMeterData> MSGMData { get; set; }
         public virtual List<ForventetData> DataForventet { get; set; }
 
         public Prosumer()
         {
-            MSGMData = new List<MiniSmartGridMeterData>();
             DataForventet = new List<ForventetData>();
         }
 

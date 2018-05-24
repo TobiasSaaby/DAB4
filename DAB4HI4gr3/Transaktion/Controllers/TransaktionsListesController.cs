@@ -11,11 +11,12 @@ using System.Web.Http.Description;
 using DAB4.Modeller;
 using DAB4.Modeller.Context;
 
+
 namespace Transaktion.Controllers
 {
     public class TransaktionsListesController : ApiController
     {
-        private DBContext db = new DBContext();
+        private TransaktionContext db = new TransaktionContext();
 
         // GET: api/TransaktionsListes
         public IQueryable<TransaktionsListe> GetTransaktionsLister()

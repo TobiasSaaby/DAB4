@@ -15,7 +15,7 @@ namespace Prosumer.Controllers
 {
     public class ProsumersController : ApiController
     {
-        private DBContext db = new DBContext();
+        private ProsumerContext db = new ProsumerContext();
 
         // GET: api/Prosumers
         public IQueryable<DAB4.Modeller.Prosumer> GetProsumere()

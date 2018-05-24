@@ -9,7 +9,6 @@ namespace DAB4.Modeller
         public int Id { get; set; }
 
         public List<Prosumer> Prosumere { get; set; }
-        public int Energi { get; set; }
         public virtual List<MiniSmartGridMeter> MiniSmartGridMetre { get; set; }
         public virtual EnergiLager EnergiLager { get; set; }
 

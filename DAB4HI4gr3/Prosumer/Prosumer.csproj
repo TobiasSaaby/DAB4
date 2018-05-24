@@ -196,6 +196,16 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201805240821024_initial.cs" />
+    <Compile Include="Migrations\201805240821024_initial.Designer.cs">
+      <DependentUpon>201805240821024_initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201805240826159_context_opdateret.cs" />
+    <Compile Include="Migrations\201805240826159_context_opdateret.Designer.cs">
+      <DependentUpon>201805240826159_context_opdateret.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\ProsumerContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -252,7 +262,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -276,6 +285,14 @@
       <Project>{f3bc2373-92b0-4a56-a691-27b2612f0c24}</Project>
       <Name>Repositories</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201805240821024_initial.resx">
+      <DependentUpon>201805240821024_initial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201805240826159_context_opdateret.resx">
+      <DependentUpon>201805240826159_context_opdateret.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

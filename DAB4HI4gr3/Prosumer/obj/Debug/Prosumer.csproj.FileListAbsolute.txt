@@ -216,3 +216,6 @@ D:\DAB4\DAB4HI4gr3\Prosumer\obj\Debug\Prosumer.csproj.CoreCompileInputs.cache
 D:\DAB4\DAB4HI4gr3\Prosumer\obj\Debug\Prosumer.csproj.CopyComplete
 D:\DAB4\DAB4HI4gr3\Prosumer\obj\Debug\Prosumer.dll
 D:\DAB4\DAB4HI4gr3\Prosumer\obj\Debug\Prosumer.pdb
+D:\DAB4\DAB4HI4gr3\Prosumer\obj\Debug\Prosumer.Migrations.initial.resources
+D:\DAB4\DAB4HI4gr3\Prosumer\obj\Debug\Prosumer.csproj.GenerateResource.cache
+D:\DAB4\DAB4HI4gr3\Prosumer\obj\Debug\Prosumer.Migrations.context_opdateret.resources

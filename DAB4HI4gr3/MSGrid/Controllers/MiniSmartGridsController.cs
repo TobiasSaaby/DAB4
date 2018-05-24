@@ -15,7 +15,7 @@ namespace MSGrid.Controllers
 {
     public class MiniSmartGridsController : ApiController
     {
-        private DBContext db = new DBContext();
+        private MSGridContext db = new MSGridContext();
 
         // GET: api/MiniSmartGrids
         public IQueryable<MiniSmartGrid> GetMiniSmartGridde()
